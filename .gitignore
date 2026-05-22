@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (secrets go here later)
+.env
+
+# Google credentials (never commit these)
+credentials.json
+token.json
+
+# OS files
+.DS_Store
+
+# Editor
+.vscode/
